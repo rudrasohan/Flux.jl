@@ -30,3 +30,9 @@ leakyrelu
 elu
 swish
 ```
+
+## Normalisation
+
+```@docs
+LayerNorm
+```
